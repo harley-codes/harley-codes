@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-htorrisi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htorrisi/)](https://www.linkedin.com/in/htorrisi/) [![Github Badge](https://img.shields.io/badge/-Harley%20Torrisi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Harley-Torrisi/)](https://www.github.com/Harley-Torrisi/) 
 
 - 🔭 I’m currently working on three React(NextJS) projects. Professional, and Personal. 
-- 🌱 I’m currently learning andvanced React techniques and exploring latest features of Blazor.
+- 🌱 I’m currently learning advanced React techniques and exploring latest features of Blazor.
 - 💬 Ask me about Game Design or Web Design. Actively passionate about both.
 - 🕸️ New Portfolio Website Coming Soon!
 
